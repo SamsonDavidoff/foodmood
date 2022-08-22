@@ -1,27 +1,32 @@
 # Foodmood
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+## What is Foodmood?
 
-## Development server
+Foodmood is a clone of the [SnappFood!](https://snappfood.ir/ "Online food ordering application") application. <br>
+This application provides the possibility of ordering food, fruit, bread and other food items online. <br>
+In this project (Foodmood), the following features of the SnappFood! have been implemented:
+* Order food online
+* Order bread online
+* View the list of restaurants
+* View a restaurant's food list
+* List of bakery breads
+* Advanced search with Elasticsearch between restaurants, bakeries and food
+* Scoring and commenting on products
+* Live observation of the movement of the restaurant courier to the destination
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Project technologies and tools
 
-## Code scaffolding
+The following tools and technologies have been used in this project:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Angular 14.0.0
+* RxJs 7.5.0
+* HTML5
+* SCSS
+* Bootstrap 5
 
-## Build
+## Contact me
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+You can contact the project developer through the following ways:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. [My Linkedin Profile](https://www.linkedin.com/in/samson-davidoff)
+2. My Gmail: samsondavidoff@gmail.com
