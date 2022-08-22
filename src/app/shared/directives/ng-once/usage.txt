@@ -1,0 +1,5 @@
+in ts:
+username = ‘samson’;
+
+in template:
+<span [ngOnce]=“username”></span>

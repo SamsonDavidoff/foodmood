@@ -1,0 +1,18 @@
+<input
+	formControlName="username"
+	*handleError="$any(form).get('username')
+		class: 'alert alert-danger mt-2'
+		style: 'display: block'
+		message: 'this is custom message'"
+	required>
+
+Notes:
+1. use just in reactive forms not template-driven forms!
+2. class and style and message are optional
+3. we can pass class and style with variable:
+
+in ts:
+errorStyles = 'color: orange; font-weight: bold; font-style: italic';
+
+in html:
+*handleError="$any(form).get('firstName'); style: errorStyles"
