@@ -14,7 +14,7 @@ In this project (Foodmood), the following features of the SnappFood! have been i
 * Scoring and commenting on products
 * Live observation of the movement of the restaurant courier to the destination
 
-## Project technologies and tools
+## Project Frontend technologies and tools
 
 The following tools and technologies have been used in this project:
 
@@ -23,6 +23,23 @@ The following tools and technologies have been used in this project:
 * HTML5
 * SCSS
 * Bootstrap 5
+
+## Project Backend technologies and tools
+
+The backend developer of this project is [Khalil Farashiani](https://github.com/khalil-farashiani).
+Technologies and tools used on the back end:
+
+* Python (FastApi Framework)
+* Golang (Gin Framework)
+* MySQL
+* MongoDB
+* Redis
+* CockRoachDB
+* SQL-Alchemy ORM
+* Gorilla Mux
+* Zap Logger
+* RabbitMQ
+* gRPC
 
 ## Contact me
 
